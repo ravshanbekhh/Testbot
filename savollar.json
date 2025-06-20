@@ -1,0 +1,1026 @@
+{
+  "matematika": {
+     "uz": [
+            {
+                "question": "Bir sonning 25% 40 ga teng. Son nechaga teng?",
+                "options": ["A) 100", "B) 120", "C) 160"],
+                "answer": "C) 160"
+            },
+            {
+                "question": "2x + 3 = 15 tenglamani yeching.",
+                "options": ["A) 6", "B) 5", "C) 7"],
+                "answer": "A) 6"
+            },
+            {
+                "question": "x² − 4x + 4 = 0 tenglamaning ildizlari qanday?",
+                "options": ["A) 2", "B) 2 va -2", "C) 4"],
+                "answer": "A) 2"
+            },
+            {
+                "question": "Trapetsiyaning yuzi qanday formulaga ega?",
+                "options": ["A) (a+b)/2 * h", "B) a*b", "C) a² + b²"],
+                "answer": "A) (a+b)/2 * h"
+            },
+            {
+                "question": "π ni qiymati taxminan nechaga teng?",
+                "options": ["A) 2.14", "B) 3.14", "C) 1.41"],
+                "answer": "B) 3.14"
+            },
+            {
+                "question": "10! faktorial nechaga teng?",
+                "options": ["A) 3628800", "B) 362880", "C) 40320"],
+                "answer": "A) 3628800"
+            },
+            {
+                "question": "O‘rtacha qiymatni toping: 4, 8, 12.",
+                "options": ["A) 8", "B) 6", "C) 10"],
+                "answer": "A) 8"
+            },
+            {
+                "question": "Kvadrat tenglamaning diskriminanti qanday formulaga ega?",
+                "options": ["A) b² - 4ac", "B) 2ab", "C) a² + b²"],
+                "answer": "A) b² - 4ac"
+            },
+            {
+                "question": "Log₂ 8 = ?",
+                "options": ["A) 2", "B) 3", "C) 4"],
+                "answer": "B) 3"
+            },
+            {
+                "question": "Tangens 45° qiymati?",
+                "options": ["A) 0", "B) 1", "C) √2"],
+                "answer": "B) 1"
+            }
+        ],
+        "ru": [
+            {
+                "question": "25% от числа равны 40. Чему равно число?",
+                "options": ["A) 100", "B) 120", "C) 160"],
+                "answer": "C) 160"
+            },
+            {
+                "question": "Решите уравнение: 2x + 3 = 15.",
+                "options": ["A) 6", "B) 5", "C) 7"],
+                "answer": "A) 6"
+            },
+            {
+                "question": "Найдите корни уравнения x² − 4x + 4 = 0.",
+                "options": ["A) 2", "B) 2 и -2", "C) 4"],
+                "answer": "A) 2"
+            },
+            {
+                "question": "Формула площади трапеции?",
+                "options": ["A) (a+b)/2 * h", "B) a*b", "C) a² + b²"],
+                "answer": "A) (a+b)/2 * h"
+            },
+            {
+                "question": "Примерное значение π?",
+                "options": ["A) 2.14", "B) 3.14", "C) 1.41"],
+                "answer": "B) 3.14"
+            },
+            {
+                "question": "Чему равен 10! (факториал)?",
+                "options": ["A) 3628800", "B) 362880", "C) 40320"],
+                "answer": "A) 3628800"
+            },
+            {
+                "question": "Найдите среднее значение: 4, 8, 12.",
+                "options": ["A) 8", "B) 6", "C) 10"],
+                "answer": "A) 8"
+            },
+            {
+                "question": "Формула дискриминанта квадратного уравнения?",
+                "options": ["A) b² - 4ac", "B) 2ab", "C) a² + b²"],
+                "answer": "A) b² - 4ac"
+            },
+            {
+                "question": "Log₂ 8 = ?",
+                "options": ["A) 2", "B) 3", "C) 4"],
+                "answer": "B) 3"
+            },
+            {
+                "question": "Значение тангенса 45°?",
+                "options": ["A) 0", "B) 1", "C) √2"],
+                "answer": "B) 1"
+            }
+        ],
+        "en": [
+            {
+                "question": "25% of a number is 40. What is the number?",
+                "options": ["A) 100", "B) 120", "C) 160"],
+                "answer": "C) 160"
+            },
+            {
+                "question": "Solve the equation: 2x + 3 = 15.",
+                "options": ["A) 6", "B) 5", "C) 7"],
+                "answer": "A) 6"
+            },
+            {
+                "question": "Find the roots of: x² − 4x + 4 = 0.",
+                "options": ["A) 2", "B) 2 and -2", "C) 4"],
+                "answer": "A) 2"
+            },
+            {
+                "question": "What is the area formula for a trapezoid?",
+                "options": ["A) (a+b)/2 * h", "B) a*b", "C) a² + b²"],
+                "answer": "A) (a+b)/2 * h"
+            },
+            {
+                "question": "Approximate value of π?",
+                "options": ["A) 2.14", "B) 3.14", "C) 1.41"],
+                "answer": "B) 3.14"
+            },
+            {
+                "question": "What is 10! (factorial)?",
+                "options": ["A) 3628800", "B) 362880", "C) 40320"],
+                "answer": "A) 3628800"
+            },
+            {
+                "question": "Find the average of: 4, 8, 12.",
+                "options": ["A) 8", "B) 6", "C) 10"],
+                "answer": "A) 8"
+            },
+            {
+                "question": "What is the discriminant formula of a quadratic equation?",
+                "options": ["A) b² - 4ac", "B) 2ab", "C) a² + b²"],
+                "answer": "A) b² - 4ac"
+            },
+            {
+                "question": "Log₂ 8 = ?",
+                "options": ["A) 2", "B) 3", "C) 4"],
+                "answer": "B) 3"
+            },
+            {
+                "question": "What is the value of tan 45°?",
+                "options": ["A) 0", "B) 1", "C) √2"],
+                "answer": "B) 1"
+            }
+        ]
+    },
+  "geografiya": {
+     "uz": [
+            {
+                "question": "O‘rta Osiyodagi eng chuqur botiq qaysi?",
+                "options": ["A) Sariqamish", "B) Mingbuloq", "C) Aydar"],
+                "answer": "B) Mingbuloq"
+            },
+            {
+                "question": "O‘zbekiston hududida eng ko‘p yog‘in yog‘adigan joy qaysi?",
+                "options": ["A) Farg‘ona vodiysi", "B) Toshkent viloyati", "C) Chatqol tizmasi"],
+                "answer": "C) Chatqol tizmasi"
+            },
+            {
+                "question": "Qaysi daryo O‘zbekistonni Afg‘onistondan ajratadi?",
+                "options": ["A) Sirdaryo", "B) Amudaryo", "C) Zarafshon"],
+                "answer": "B) Amudaryo"
+            },
+            {
+                "question": "Tyan-Shan tog‘ tizmasi O‘zbekistonga qayerdan kirib keladi?",
+                "options": ["A) Janubdan", "B) Sharqdan", "C) G‘arbdan"],
+                "answer": "B) Sharqdan"
+            },
+            {
+                "question": "Qaysi tabiiy zona O‘zbekistonda keng tarqalgan?",
+                "options": ["A) Dasht", "B) Savanna", "C) Cho‘l"],
+                "answer": "C) Cho‘l"
+            },
+            {
+                "question": "Eng yirik suv inshooti qaysi?",
+                "options": ["A) Tuyamuyin", "B) Chorvoq", "C) Andijon"],
+                "answer": "B) Chorvoq"
+            },
+            {
+                "question": "O‘zbekiston tabiiy gaz eksportida qaysi davlat yetakchi hisoblanadi?",
+                "options": ["A) Qozog‘iston", "B) Rossiya", "C) Xitoy"],
+                "answer": "C) Xitoy"
+            },
+            {
+                "question": "O‘zbekistonning shimoli-sharqiy qismida qaysi tog‘ joylashgan?",
+                "options": ["A) Hisor", "B) Chatqol", "C) Qiziltog‘"],
+                "answer": "B) Chatqol"
+            },
+            {
+                "question": "Kaspiy dengizi bilan bevosita chegaradosh bo‘lmagan davlat?",
+                "options": ["A) Turkmaniston", "B) O‘zbekiston", "C) Qozog‘iston"],
+                "answer": "B) O‘zbekiston"
+            },
+            {
+                "question": "O‘zbekiston poytaxti geologik qaysi zona ustida joylashgan?",
+                "options": ["A) Seysmik faollik zonasi", "B) Vulkanik zona", "C) Platforma"],
+                "answer": "A) Seysmik faollik zonasi"
+            }
+        ],
+        "ru": [
+            {
+                "question": "Какая самая глубокая впадина в Средней Азии?",
+                "options": ["A) Сарыкамыш", "B) Мингбулак", "C) Айдар"],
+                "answer": "B) Мингбулак"
+            },
+            {
+                "question": "Где в Узбекистане выпадает наибольшее количество осадков?",
+                "options": ["A) Ферганская долина", "B) Ташкентская область", "C) Чаткальский хребет"],
+                "answer": "C) Чаткальский хребет"
+            },
+            {
+                "question": "Какая река разделяет Узбекистан и Афганистан?",
+                "options": ["A) Сырдарья", "B) Амударья", "C) Зарафшан"],
+                "answer": "B) Амударья"
+            },
+            {
+                "question": "С какой стороны в Узбекистан входит хребет Тянь-Шань?",
+                "options": ["A) С юга", "B) С востока", "C) С запада"],
+                "answer": "B) С востока"
+            },
+            {
+                "question": "Какая природная зона наиболее распространена в Узбекистане?",
+                "options": ["A) Степь", "B) Саванна", "C) Пустыня"],
+                "answer": "C) Пустыня"
+            },
+            {
+                "question": "Какое самое крупное гидротехническое сооружение?",
+                "options": ["A) Туямуюн", "B) Чарвак", "C) Андижан"],
+                "answer": "B) Чарвак"
+            },
+            {
+                "question": "Какая страна является основным импортером природного газа из Узбекистана?",
+                "options": ["A) Казахстан", "B) Россия", "C) Китай"],
+                "answer": "C) Китай"
+            },
+            {
+                "question": "Какой хребет расположен на северо-востоке Узбекистана?",
+                "options": ["A) Гиссар", "B) Чаткал", "C) Кызылтау"],
+                "answer": "B) Чаткал"
+            },
+            {
+                "question": "Какая страна не имеет прямой границы с Каспийским морем?",
+                "options": ["A) Туркменистан", "B) Узбекистан", "C) Казахстан"],
+                "answer": "B) Узбекистан"
+            },
+            {
+                "question": "На какой геологической зоне расположен Ташкент?",
+                "options": ["A) Сейсмически активная зона", "B) Вулканическая зона", "C) Платформа"],
+                "answer": "A) Сейсмически активная зона"
+            }
+        ],
+        "en": [
+            {
+                "question": "What is the deepest depression in Central Asia?",
+                "options": ["A) Sarykamysh", "B) Mingbulak", "C) Aydar"],
+                "answer": "B) Mingbulak"
+            },
+            {
+                "question": "Which area receives the most precipitation in Uzbekistan?",
+                "options": ["A) Fergana Valley", "B) Tashkent Region", "C) Chatkal Range"],
+                "answer": "C) Chatkal Range"
+            },
+            {
+                "question": "Which river separates Uzbekistan from Afghanistan?",
+                "options": ["A) Syr Darya", "B) Amu Darya", "C) Zarafshan"],
+                "answer": "B) Amu Darya"
+            },
+            {
+                "question": "From which direction does the Tien Shan enter Uzbekistan?",
+                "options": ["A) From the south", "B) From the east", "C) From the west"],
+                "answer": "B) From the east"
+            },
+            {
+                "question": "Which natural zone is most widespread in Uzbekistan?",
+                "options": ["A) Steppe", "B) Savanna", "C) Desert"],
+                "answer": "C) Desert"
+            },
+            {
+                "question": "What is the largest water infrastructure in Uzbekistan?",
+                "options": ["A) Tuyamuyin", "B) Charvak", "C) Andijan"],
+                "answer": "B) Charvak"
+            },
+            {
+                "question": "Which country is the main importer of Uzbekistan's natural gas?",
+                "options": ["A) Kazakhstan", "B) Russia", "C) China"],
+                "answer": "C) China"
+            },
+            {
+                "question": "Which mountain range is located in northeastern Uzbekistan?",
+                "options": ["A) Hisor", "B) Chatkal", "C) Kyzyltau"],
+                "answer": "B) Chatkal"
+            },
+            {
+                "question": "Which country does not directly border the Caspian Sea?",
+                "options": ["A) Turkmenistan", "B) Uzbekistan", "C) Kazakhstan"],
+                "answer": "B) Uzbekistan"
+            },
+            {
+                "question": "What geological zone is Tashkent located on?",
+                "options": ["A) Seismic active zone", "B) Volcanic zone", "C) Platform"],
+                "answer": "A) Seismic active zone"
+            }
+        ]
+    },
+  "tarix": {
+    "uz": [
+            {
+                "question": "Xiva xonligi qachon Rossiya imperiyasi tarkibiga o‘tgan?",
+                "options": ["A) 1873-yil", "B) 1865-yil", "C) 1881-yil"],
+                "answer": "A) 1873-yil"
+            },
+            {
+                "question": "Turon va Eron davlatlari o‘rtasida mashhur jang qaysi biri?",
+                "options": ["A) Qadisiya jangi", "B) Dajla jangi", "C) Davar jangi"],
+                "answer": "C) Davar jangi"
+            },
+            {
+                "question": "Qaysi sarkarda Rim imperiyasini egallashga harakat qilgan?",
+                "options": ["A) Spartak", "B) Attila", "C) Sezar"],
+                "answer": "B) Attila"
+            },
+            {
+                "question": "Buxoroda Islom dini ilk bor kim davrida rasmiy tus olgan?",
+                "options": ["A) Qutayba ibn Muslim", "B) Abu Muslim", "C) Ahmad Donish"],
+                "answer": "A) Qutayba ibn Muslim"
+            },
+            {
+                "question": "Temuriylar davlatining poytaxti qayer bo‘lgan?",
+                "options": ["A) Buxoro", "B) Hirot", "C) Samarqand"],
+                "answer": "C) Samarqand"
+            },
+            {
+                "question": "Yunon-fors urushlari necha yil davom etgan?",
+                "options": ["A) 20 yil", "B) 50 yil", "C) 30 yil"],
+                "answer": "C) 30 yil"
+            },
+            {
+                "question": "Mustamlaka degani nima?",
+                "options": ["A) Iqtisodiy mustaqillik", "B) Chet el tomonidan bosib olingan hudud", "C) Ichki siyosat"],
+                "answer": "B) Chet el tomonidan bosib olingan hudud"
+            },
+            {
+                "question": "Qachon Berlin devori qulatilgan?",
+                "options": ["A) 1989-yil", "B) 1991-yil", "C) 1985-yil"],
+                "answer": "A) 1989-yil"
+            },
+            {
+                "question": "Buyuk ipak yo‘li qaysi yo‘nalishda ishlagan?",
+                "options": ["A) Janubiy-g‘arbiy", "B) Sharqdan-g‘arbga", "C) G‘arbdan-janubga"],
+                "answer": "B) Sharqdan-g‘arbga"
+            },
+            {
+                "question": "Sovet Ittifoqi tarkibiga O‘zbekiston qachon kirdi?",
+                "options": ["A) 1924-yil", "B) 1918-yil", "C) 1936-yil"],
+                "answer": "A) 1924-yil"
+            }
+        ],
+        "ru": [
+            {
+                "question": "Когда Хивинское ханство вошло в состав Российской империи?",
+                "options": ["A) 1873 год", "B) 1865 год", "C) 1881 год"],
+                "answer": "A) 1873 год"
+            },
+            {
+                "question": "Какая битва известна между государствами Туран и Иран?",
+                "options": ["A) Битва при Кадисии", "B) Битва при Тигре", "C) Битва при Даваре"],
+                "answer": "C) Битва при Даваре"
+            },
+            {
+                "question": "Какой полководец пытался завоевать Римскую империю?",
+                "options": ["A) Спартак", "B) Аттила", "C) Цезарь"],
+                "answer": "B) Аттила"
+            },
+            {
+                "question": "Кто впервые официально ввел ислам в Бухаре?",
+                "options": ["A) Кутейба ибн Муслим", "B) Абу Муслим", "C) Ахмад Дониш"],
+                "answer": "A) Кутейба ибн Муслим"
+            },
+            {
+                "question": "Какая столица у государства Тимуридов?",
+                "options": ["A) Бухара", "B) Герат", "C) Самарканд"],
+                "answer": "C) Самарканд"
+            },
+            {
+                "question": "Сколько длились греко-персидские войны?",
+                "options": ["A) 20 лет", "B) 50 лет", "C) 30 лет"],
+                "answer": "C) 30 лет"
+            },
+            {
+                "question": "Что означает колония?",
+                "options": ["A) Экономическая независимость", "B) Оккупированная иностранцами территория", "C) Внутренняя политика"],
+                "answer": "B) Оккупированная иностранцами территория"
+            },
+            {
+                "question": "Когда была разрушена Берлинская стена?",
+                "options": ["A) 1989 год", "B) 1991 год", "C) 1985 год"],
+                "answer": "A) 1989 год"
+            },
+            {
+                "question": "В каком направлении работал Великий шелковый путь?",
+                "options": ["A) Юго-запад", "B) С востока на запад", "C) С запада на юг"],
+                "answer": "B) С востока на запад"
+            },
+            {
+                "question": "Когда Узбекистан вошёл в состав СССР?",
+                "options": ["A) 1924 год", "B) 1918 год", "C) 1936 год"],
+                "answer": "A) 1924 год"
+            }
+        ],
+        "en": [
+            {
+                "question": "When did the Khiva Khanate become part of the Russian Empire?",
+                "options": ["A) 1873", "B) 1865", "C) 1881"],
+                "answer": "A) 1873"
+            },
+            {
+                "question": "Which battle is famous between Turan and Iran states?",
+                "options": ["A) Battle of Qadisiyyah", "B) Battle of Tigris", "C) Battle of Davar"],
+                "answer": "C) Battle of Davar"
+            },
+            {
+                "question": "Which commander tried to conquer the Roman Empire?",
+                "options": ["A) Spartacus", "B) Attila", "C) Caesar"],
+                "answer": "B) Attila"
+            },
+            {
+                "question": "Who first officially introduced Islam in Bukhara?",
+                "options": ["A) Qutayba ibn Muslim", "B) Abu Muslim", "C) Ahmad Donish"],
+                "answer": "A) Qutayba ibn Muslim"
+            },
+            {
+                "question": "What was the capital of the Timurid Empire?",
+                "options": ["A) Bukhara", "B) Herat", "C) Samarkand"],
+                "answer": "C) Samarkand"
+            },
+            {
+                "question": "How many years did the Greco-Persian wars last?",
+                "options": ["A) 20 years", "B) 50 years", "C) 30 years"],
+                "answer": "C) 30 years"
+            },
+            {
+                "question": "What does the word 'colony' mean?",
+                "options": ["A) Economic independence", "B) Territory occupied by foreigners", "C) Domestic policy"],
+                "answer": "B) Territory occupied by foreigners"
+            },
+            {
+                "question": "When was the Berlin Wall destroyed?",
+                "options": ["A) 1989", "B) 1991", "C) 1985"],
+                "answer": "A) 1989"
+            },
+            {
+                "question": "In which direction did the Great Silk Road operate?",
+                "options": ["A) Southwest", "B) East to west", "C) West to south"],
+                "answer": "B) East to west"
+            },
+            {
+                "question": "When did Uzbekistan join the USSR?",
+                "options": ["A) 1924", "B) 1918", "C) 1936"],
+                "answer": "A) 1924"
+            }
+        ]
+    },
+  "kimyo": {
+       "uz": [
+            {
+                "question": "Nima uchun metallarning elektr o'tkazuvchanligi yuqori bo'ladi?",
+                "options": ["A) Ularning ionlari harakatchan", "B) Ular ko'p elektronlarga ega", "C) Ularning erkin elektronlari mavjud"],
+                "answer": "C) Ularning erkin elektronlari mavjud"
+            },
+            {
+                "question": "Qaysi birikma kislotalar va asoslar reaksiyasidan hosil bo‘ladi?",
+                "options": ["A) Tuz", "B) Oksid", "C) Ester"],
+                "answer": "A) Tuz"
+            },
+            {
+                "question": "Organik birikmalarda karbon atomining bog'lanishlari nechta bo'lishi mumkin?",
+                "options": ["A) 2 ta", "B) 3 ta", "C) 4 ta"],
+                "answer": "C) 4 ta"
+            },
+            {
+                "question": "Ammiak molekulasining geometrik shakli qanday?",
+                "options": ["A) Tekis uchburchak", "B) Piramida", "C) Tetraedr"],
+                "answer": "B) Piramida"
+            },
+            {
+                "question": "Qanday reaksiya ekzotermik hisoblanadi?",
+                "options": ["A) Issiqlik yutiladi", "B) Issiqlik ajraladi", "C) Hech qanday o‘zgarish bo‘lmaydi"],
+                "answer": "B) Issiqlik ajraladi"
+            },
+            {
+                "question": "Katalizator vazifasi nima?",
+                "options": ["A) Reaksiyani to‘xtatish", "B) Reaksiyaga ishtirokchi sifatida kirishish", "C) Reaksiyani tezlashtirish"],
+                "answer": "C) Reaksiyani tezlashtirish"
+            },
+            {
+                "question": "Eng kuchli oksidlovchi moddani belgilang.",
+                "options": ["A) O2", "B) F2", "C) Cl2"],
+                "answer": "B) F2"
+            },
+            {
+                "question": "Qaysi gaz laboratoriyada xlorid kislota va marganets dioksid reaksiyasidan olinadi?",
+                "options": ["A) Cl2", "B) H2", "C) CO2"],
+                "answer": "A) Cl2"
+            },
+            {
+                "question": "Suv molekulasi qanday bog‘ turiga ega?",
+                "options": ["A) Ion bog‘i", "B) Kovalent qutbli", "C) Metall bog‘i"],
+                "answer": "B) Kovalent qutbli"
+            },
+            {
+                "question": "Atom massasining birliklari qanday ataladi?",
+                "options": ["A) Gramm", "B) Dalton", "C) Mol"],
+                "answer": "B) Dalton"
+            }
+        ],
+        "ru": [
+            {
+                "question": "Почему металлы хорошо проводят электричество?",
+                "options": ["A) Их ионы подвижны", "B) У них много электронов", "C) У них есть свободные электроны"],
+                "answer": "C) У них есть свободные электроны"
+            },
+            {
+                "question": "Какое соединение образуется при реакции кислоты и основания?",
+                "options": ["A) Соль", "B) Оксид", "C) Эфир"],
+                "answer": "A) Соль"
+            },
+            {
+                "question": "Сколько связей может иметь атом углерода в органических соединениях?",
+                "options": ["A) 2", "B) 3", "C) 4"],
+                "answer": "C) 4"
+            },
+            {
+                "question": "Какова геометрическая форма молекулы аммиака?",
+                "options": ["A) Плоский треугольник", "B) Пирамида", "C) Тетраэдр"],
+                "answer": "B) Пирамида"
+            },
+            {
+                "question": "Какая реакция является экзотермической?",
+                "options": ["A) Поглощается тепло", "B) Выделяется тепло", "C) Нет изменений"],
+                "answer": "B) Выделяется тепло"
+            },
+            {
+                "question": "Какова функция катализатора?",
+                "options": ["A) Остановить реакцию", "B) Вступать в реакцию как участник", "C) Ускорить реакцию"],
+                "answer": "C) Ускорить реакцию"
+            },
+            {
+                "question": "Выберите самое сильное окислительное вещество.",
+                "options": ["A) O2", "B) F2", "C) Cl2"],
+                "answer": "B) F2"
+            },
+            {
+                "question": "Какой газ получают в лаборатории при реакции соляной кислоты и диоксида марганца?",
+                "options": ["A) Cl2", "B) H2", "C) CO2"],
+                "answer": "A) Cl2"
+            },
+            {
+                "question": "Какой тип связи у молекулы воды?",
+                "options": ["A) Ионная", "B) Полярная ковалентная", "C) Металлическая"],
+                "answer": "B) Полярная ковалентная"
+            },
+            {
+                "question": "Как называются единицы атомной массы?",
+                "options": ["A) Граммы", "B) Дальтоны", "C) Моли"],
+                "answer": "B) Дальтоны"
+            }
+        ],
+        "en": [
+            {
+                "question": "Why do metals have high electrical conductivity?",
+                "options": ["A) Their ions are mobile", "B) They have many electrons", "C) They have free electrons"],
+                "answer": "C) They have free electrons"
+            },
+            {
+                "question": "Which compound is formed by reaction of an acid and a base?",
+                "options": ["A) Salt", "B) Oxide", "C) Ester"],
+                "answer": "A) Salt"
+            },
+            {
+                "question": "How many bonds can a carbon atom form in organic compounds?",
+                "options": ["A) 2", "B) 3", "C) 4"],
+                "answer": "C) 4"
+            },
+            {
+                "question": "What is the molecular geometry of ammonia?",
+                "options": ["A) Planar triangle", "B) Pyramidal", "C) Tetrahedral"],
+                "answer": "B) Pyramidal"
+            },
+            {
+                "question": "Which type of reaction is exothermic?",
+                "options": ["A) Heat is absorbed", "B) Heat is released", "C) No change"],
+                "answer": "B) Heat is released"
+            },
+            {
+                "question": "What is the function of a catalyst?",
+                "options": ["A) Stop the reaction", "B) React as a participant", "C) Speed up the reaction"],
+                "answer": "C) Speed up the reaction"
+            },
+            {
+                "question": "Which is the strongest oxidizing agent?",
+                "options": ["A) O2", "B) F2", "C) Cl2"],
+                "answer": "B) F2"
+            },
+            {
+                "question": "Which gas is produced in the lab by reacting hydrochloric acid with manganese dioxide?",
+                "options": ["A) Cl2", "B) H2", "C) CO2"],
+                "answer": "A) Cl2"
+            },
+            {
+                "question": "What type of bond does a water molecule have?",
+                "options": ["A) Ionic", "B) Polar covalent", "C) Metallic"],
+                "answer": "B) Polar covalent"
+            },
+            {
+                "question": "What are the units of atomic mass called?",
+                "options": ["A) Grams", "B) Dalton", "C) Mole"],
+                "answer": "B) Dalton"
+            }
+        ]
+    },
+  "biologiya": {
+   "uz": [
+        {
+            "question": "DNK replikatsiyasi qaysi fazada sodir bo‘ladi?",
+            "options": ["A) G1 faza", "B) S faza", "C) G2 faza"],
+            "answer": "B) S faza"
+        },
+        {
+            "question": "Qaysi organoid oqsil sintezida ishtirok etadi?",
+            "options": ["A) Ribosoma", "B) Lizosoma", "C) Mitoxondriya"],
+            "answer": "A) Ribosoma"
+        },
+        {
+            "question": "Immunitet tizimi hujayralaridan biri bu —",
+            "options": ["A) Eritrotsit", "B) Leikotsit", "C) Trombosit"],
+            "answer": "B) Leikotsit"
+        },
+        {
+            "question": "O‘simliklarda transpiratsiya qanday a’zoda amalga oshadi?",
+            "options": ["A) Ildiz", "B) Poya", "C) Barg"],
+            "answer": "C) Barg"
+        },
+        {
+            "question": "Odam tanasidagi eng katta bez bu —",
+            "options": ["A) Qizilo‘ngach", "B) Jigar", "C) Oshqozon"],
+            "answer": "B) Jigar"
+        },
+        {
+            "question": "Asab impulsini o‘tkazuvchi modda bu —",
+            "options": ["A) Ferment", "B) Neyrotransmitter", "C) Gormon"],
+            "answer": "B) Neyrotransmitter"
+        },
+        {
+            "question": "Yurakning o‘ng qorinchasi nimaga qon haydaydi?",
+            "options": ["A) O‘pka", "B) Jigar", "C) Bosh miya"],
+            "answer": "A) O‘pka"
+        },
+        {
+            "question": "Qaysi tuzilma DNKni o‘rab oladi?",
+            "options": ["A) Xromoplast", "B) Histon", "C) Ribosoma"],
+            "answer": "B) Histon"
+        },
+        {
+            "question": "Fotosintezda asosiy energiya manbai nima?",
+            "options": ["A) Suv", "B) Quyosh nuri", "C) CO2"],
+            "answer": "B) Quyosh nuri"
+        },
+        {
+            "question": "Plazmalema qaysi funksiyani bajaradi?",
+            "options": ["A) Himoya", "B) DNK sintezi", "C) Oqsil sintezi"],
+            "answer": "A) Himoya"
+        }
+    ],
+    "ru": [
+        {
+            "question": "Репликация ДНК происходит в какой фазе?",
+            "options": ["A) Фаза G1", "B) Фаза S", "C) Фаза G2"],
+            "answer": "B) Фаза S"
+        },
+        {
+            "question": "Какой органоид участвует в синтезе белка?",
+            "options": ["A) Рибосома", "B) Лизосома", "C) Митохондрия"],
+            "answer": "A) Рибосома"
+        },
+        {
+            "question": "Одна из клеток иммунной системы — это",
+            "options": ["A) Эритроцит", "B) Лейкоцит", "C) Тромбоцит"],
+            "answer": "B) Лейкоцит"
+        },
+        {
+            "question": "Через какой орган осуществляется транспирация у растений?",
+            "options": ["A) Корень", "B) Стебель", "C) Лист"],
+            "answer": "C) Лист"
+        },
+        {
+            "question": "Самая большая железа в организме человека — это",
+            "options": ["A) Пищевод", "B) Печень", "C) Желудок"],
+            "answer": "B) Печень"
+        },
+        {
+            "question": "Вещество, передающее нервный импульс — это",
+            "options": ["A) Фермент", "B) Нейромедиатор", "C) Гормон"],
+            "answer": "B) Нейромедиатор"
+        },
+        {
+            "question": "Куда направляет кровь правый желудочек сердца?",
+            "options": ["A) В легкие", "B) В печень", "C) В головной мозг"],
+            "answer": "A) В легкие"
+        },
+        {
+            "question": "Какая структура оборачивает ДНК?",
+            "options": ["A) Хромопласт", "B) Гистон", "C) Рибосома"],
+            "answer": "B) Гистон"
+        },
+        {
+            "question": "Что является основным источником энергии при фотосинтезе?",
+            "options": ["A) Вода", "B) Солнечный свет", "C) CO2"],
+            "answer": "B) Солнечный свет"
+        },
+        {
+            "question": "Какую функцию выполняет плазмалемма?",
+            "options": ["A) Защитную", "B) Синтез ДНК", "C) Синтез белка"],
+            "answer": "A) Защитную"
+        }
+    ],
+    "en": [
+        {
+            "question": "In which phase does DNA replication occur?",
+            "options": ["A) G1 phase", "B) S phase", "C) G2 phase"],
+            "answer": "B) S phase"
+        },
+        {
+            "question": "Which organelle is involved in protein synthesis?",
+            "options": ["A) Ribosome", "B) Lysosome", "C) Mitochondria"],
+            "answer": "A) Ribosome"
+        },
+        {
+            "question": "Which of the following is a cell of the immune system?",
+            "options": ["A) Erythrocyte", "B) Leukocyte", "C) Platelet"],
+            "answer": "B) Leukocyte"
+        },
+        {
+            "question": "In plants, transpiration occurs through which part?",
+            "options": ["A) Root", "B) Stem", "C) Leaf"],
+            "answer": "C) Leaf"
+        },
+        {
+            "question": "What is the largest gland in the human body?",
+            "options": ["A) Esophagus", "B) Liver", "C) Stomach"],
+            "answer": "B) Liver"
+        },
+        {
+            "question": "What transmits the nerve impulse?",
+            "options": ["A) Enzyme", "B) Neurotransmitter", "C) Hormone"],
+            "answer": "B) Neurotransmitter"
+        },
+        {
+            "question": "Where does the right ventricle of the heart pump blood?",
+            "options": ["A) Lungs", "B) Liver", "C) Brain"],
+            "answer": "A) Lungs"
+        },
+        {
+            "question": "Which structure wraps around DNA?",
+            "options": ["A) Chromoplast", "B) Histone", "C) Ribosome"],
+            "answer": "B) Histone"
+        },
+        {
+            "question": "What is the primary energy source in photosynthesis?",
+            "options": ["A) Water", "B) Sunlight", "C) CO2"],
+            "answer": "B) Sunlight"
+        },
+        {
+            "question": "What is the function of the plasma membrane?",
+            "options": ["A) Protection", "B) DNA synthesis", "C) Protein synthesis"],
+            "answer": "A) Protection"
+        }
+    ]
+},
+  "ingliz_tili": [
+        {
+            "question": "What is the past tense of 'go'?",
+            "options": ["A) goed", "B) went", "C) go"],
+            "answer": "B) went"
+        },
+        {
+            "question": "Choose the correct article: ___ apple",
+            "options": ["A) a", "B) an", "C) the"],
+            "answer": "B) an"
+        },
+        {
+            "question": "Which one is a noun?",
+            "options": ["A) run", "B) happiness", "C) quickly"],
+            "answer": "B) happiness"
+        },
+        {
+            "question": "What is the opposite of 'hot'?",
+            "options": ["A) warm", "B) cool", "C) cold"],
+            "answer": "C) cold"
+        },
+        {
+            "question": "Which sentence is correct?",
+            "options": ["A) She go to school", "B) She goes to school", "C) She going to school"],
+            "answer": "B) She goes to school"
+        },
+        {
+            "question": "How do you spell the number 8?",
+            "options": ["A) eight", "B) ate", "C) eht"],
+            "answer": "A) eight"
+        },
+        {
+            "question": "Choose the correct plural form of 'child'",
+            "options": ["A) childs", "B) children", "C) childer"],
+            "answer": "B) children"
+        },
+        {
+            "question": "Fill in the blank: I ___ a student.",
+            "options": ["A) is", "B) am", "C) are"],
+            "answer": "B) am"
+        },
+        {
+            "question": "What color is the sky on a clear day?",
+            "options": ["A) green", "B) blue", "C) red"],
+            "answer": "B) blue"
+        },
+        {
+            "question": "Which word is a verb?",
+            "options": ["A) jump", "B) slow", "C) smart"],
+            "answer": "A) jump"
+        }
+    ],
+
+  "ielts_reading":[
+    {
+        "question": "What is the main purpose of the passage?",
+        "options": ["A) To describe a historical event", "B) To explain a scientific theory", "C) To argue a political point"],
+        "answer": "B) To explain a scientific theory"
+    },
+    {
+        "question": "According to the passage, what is one effect of climate change on polar bears?",
+        "options": ["A) Increased population", "B) Reduced habitat", "C) Improved hunting skills"],
+        "answer": "B) Reduced habitat"
+    },
+    {
+        "question": "What does the author imply about renewable energy?",
+        "options": ["A) It is less effective than fossil fuels", "B) It is the only solution to climate change", "C) It has potential but faces implementation challenges"],
+        "answer": "C) It has potential but faces implementation challenges"
+    },
+    {
+        "question": "Why did the scientist repeat the experiment multiple times?",
+        "options": ["A) To prove his hypothesis was wrong", "B) To ensure consistent results", "C) To impress his colleagues"],
+        "answer": "B) To ensure consistent results"
+    },
+    {
+        "question": "What can be inferred about ancient civilizations from the passage?",
+        "options": ["A) They had no knowledge of astronomy", "B) They relied on myths more than facts", "C) They developed complex calendars based on star patterns"],
+        "answer": "C) They developed complex calendars based on star patterns"
+    },
+    {
+        "question": "Which of the following best describes the author's tone in the passage?",
+        "options": ["A) Sarcastic", "B) Objective", "C) Emotional"],
+        "answer": "B) Objective"
+    },
+    {
+        "question": "What is the most likely reason the author included the example of honey bees?",
+        "options": ["A) To highlight a common misconception", "B) To provide evidence of environmental decline", "C) To argue for less scientific research"],
+        "answer": "B) To provide evidence of environmental decline"
+    },
+    {
+        "question": "The phrase 'a double-edged sword' in paragraph 4 suggests that technology:",
+        "options": ["A) Always causes problems", "B) Can have both positive and negative effects", "C) Is outdated and irrelevant"],
+        "answer": "B) Can have both positive and negative effects"
+    },
+    {
+        "question": "According to the passage, how do coral reefs benefit marine life?",
+        "options": ["A) By increasing ocean temperatures", "B) By filtering salt out of water", "C) By providing habitat and food sources"],
+        "answer": "C) By providing habitat and food sources"
+    },
+    {
+        "question": "What does the author suggest is a key to solving the water crisis?",
+        "options": ["A) Building more dams", "B) Using water more efficiently", "C) Increasing bottled water production"],
+        "answer": "B) Using water more efficiently"
+    }
+],
+
+  "psixologik_test": {
+    "uz": [
+      {
+        "question": " Siz yangi joyga borganingizda qanday harakat qilasiz?",
+        "options": ["A) Darhol odamlar bilan tanishaman", "B) Atrofni kuzataman", "C) Yolg‘iz qolishni afzal ko‘raman"]
+      },
+      {
+        "question": " Sizga ko‘proq qaysi mashg‘ulot yoqadi?",
+        "options": ["A) Sport bilan shug‘ullanish", "B) Kitob o‘qish", "C) Guruhda ishlash"]
+      },
+      {
+        "question": " Muammoga duch kelsangiz, birinchi navbatda nima qilasiz?",
+        "options": ["A) Yordam so‘rayman", "B) O‘zim hal qilishga harakat qilaman", "C) Vaziyatdan qochaman"]
+      },
+      {
+        "question": " Siz uchun dam olishning eng yaxshi usuli?",
+        "options": ["A) Tashqariga chiqish", "B) Film ko‘rish", "C) Do‘stlar bilan uchrashish"]
+      },
+      {
+        "question": " Siz ko‘proq qanday insonlarni qadrlaysiz?",
+        "options": ["A) Ochig‘ini aytadigan", "B) Yordam beradigan", "C) Qiziqarli suhbatdosh"]
+      },
+      {
+        "question": " Siz uchun muhimroq narsa?",
+        "options": ["A) Mustaqillik", "B) Barqarorlik", "C) Yangi taassurotlar"]
+      },
+      {
+        "question": " Odatda kayfiyatingiz qanday bo‘ladi?",
+        "options": ["A) Ko‘tarinki", "B) Tinch", "C) Tez-tez o‘zgaradi"]
+      },
+      {
+        "question": " Siz uchun muvaffaqiyat nimani anglatadi?",
+        "options": ["A) Maqsadga erishish", "B) Yangi narsalarni o‘rganish", "C) Odamlarga yordam berish"]
+      },
+      {
+        "question": " Siz ko‘proq qaysi paytda faol bo‘lasiz?",
+        "options": ["A) Ertalab", "B) Kechqurun", "C) Har doim bir xil"]
+      },
+      {
+        "question": " Sizningcha, yaxshi rahbar qanday bo‘lishi kerak?",
+        "options": ["A) Adolatli", "B) Talabchan", "C) Qiziqarli"]
+      }
+    ],
+    "ru": [
+      {
+        "question": " Что вы делаете, попав в новое место?",
+        "options": ["A) Сразу знакомлюсь с людьми", "B) Наблюдаю за окружающими", "C) Предпочитаю быть один"]
+      },
+      {
+        "question": " Какое занятие вам больше по душе?",
+        "options": ["A) Заниматься спортом", "B) Читать книги", "C) Работать в группе"]
+      },
+      {
+        "question": " Столкнувшись с проблемой, что делаете в первую очередь?",
+        "options": ["A) Прошу помощи", "B) Стараюсь решить сам", "C) Избегаю ситуации"]
+      },
+      {
+        "question": " Какой для вас лучший способ отдохнуть?",
+        "options": ["A) Выйти на улицу", "B) Смотреть фильм", "C) Встретиться с друзьями"]
+      },
+      {
+        "question": " Каких людей вы больше цените?",
+        "options": ["A) Откровенных", "B) Помогающих", "C) Интересных собеседников"]
+      },
+      {
+        "question": " Что для вас важнее?",
+        "options": ["A) Независимость", "B) Стабильность", "C) Новые впечатления"]
+      },
+      {
+        "question": " Какое у вас обычно настроение?",
+        "options": ["A) Приподнятое", "B) Спокойное", "C) Часто меняется"]
+      },
+      {
+        "question": " Что для вас успех?",
+        "options": ["A) Достичь цели", "B) Узнать новое", "C) Помогать людям"]
+      },
+      {
+        "question": " Когда вы наиболее активны?",
+        "options": ["A) Утром", "B) Вечером", "C) Всегда одинаково"]
+      },
+      {
+        "question": " Каким должен быть хороший руководитель?",
+        "options": ["A) Справедливым", "B) Требовательным", "C) Интересным"]
+      }
+    ],
+    "en": [
+      {
+        "question": " What do you do in a new place?",
+        "options": ["A) Immediately meet people", "B) Observe the surroundings", "C) Prefer to be alone"]
+      },
+      {
+        "question": " Which activity do you prefer?",
+        "options": ["A) Doing sports", "B) Reading books", "C) Working in a group"]
+      },
+      {
+        "question": " When you face a problem, what do you do first?",
+        "options": ["A) Ask for help", "B) Try to solve it myself", "C) Avoid the situation"]
+      },
+      {
+        "question": " What is the best way to relax for you?",
+        "options": ["A) Go outside", "B) Watch a movie", "C) Meet with friends"]
+      },
+      {
+        "question": " What kind of people do you value more?",
+        "options": ["A) Honest", "B) Helpful", "C) Good conversationalist"]
+      },
+      {
+        "question": " What is more important for you?",
+        "options": ["A) Independence", "B) Stability", "C) New impressions"]
+      },
+      {
+        "question": " What is your mood usually like?",
+        "options": ["A) Cheerful", "B) Calm", "C) Changes often"]
+      },
+      {
+        "question": " What does success mean to you?",
+        "options": ["A) Achieving goals", "B) Learning new things", "C) Helping people"]
+      },
+      {
+        "question": " When are you most active?",
+        "options": ["A) In the morning", "B) In the evening", "C) Always the same"]
+      },
+      {
+        "question": " What should a good leader be?",
+        "options": ["A) Fair", "B) Demanding", "C) Interesting"]
+      }
+    ]
+  }
+}
